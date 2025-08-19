@@ -1,0 +1,560 @@
+Serial no.,Study no.,Study,Sample,Sample Description,Stress,Stress Type,Censoring status
+1,1,GSE7256,GSM174883,A mock 3 dpi rep 1 with array type rice from Affymetrix,Bio,Fungus,Control
+2,1,GSE7256,GSM174884,E mock 4 dpi rep 1 with array type rice from Affymetrix,Bio,Fungus,Control
+3,1,GSE7256,GSM174885,B FR13 3 dpi rep 1 with array type rice from Affymetrix,Bio,Fungus,Treatment
+4,1,GSE7256,GSM174886,F FR13 4 dpi rep 1 with array type rice from Affymetrix,Bio,Fungus,Treatment
+5,1,GSE7256,GSM174887,D FR13 3 dpi rep 2 with array type rice from Affymetrix,Bio,Fungus,Treatment
+6,1,GSE7256,GSM174888,C mock 3 dpi rep 2 with array type rice from Affymetrix,Bio,Fungus,Control
+7,1,GSE7256,GSM174889,H FR13 4 dpi rep 2 with array type rice from Affymetrix,Bio,Fungus,Treatment
+8,1,GSE7256,GSM174890,G mock 4 dpi rep 2 with array type rice from Affymetrix,Bio,Fungus,Control
+9,2,GSE10373,GSM261998,"IAC165, 2 days after mock-infection, biological replicate #1",Bio,Weed,Control
+10,2,GSE10373,GSM261999,"IAC165, 2 days after mock-infection, biological replicate #2",Bio,Weed,Control
+11,2,GSE10373,GSM262000,"IAC165, 2 days after infection with S. hermonthica, biological replicate #1",Bio,Weed,Treatment
+12,2,GSE10373,GSM262001,"IAC165, 2 days after infection with S. hermonthica, biological replicate #2",Bio,Weed,Treatment
+13,2,GSE10373,GSM262002,"IAC165, 4 days after mock-infection, biological replicate #1",Bio,Weed,Control
+14,2,GSE10373,GSM262003,"IAC165, 4 days after mock-infection, biological replicate #2",Bio,Weed,Control
+15,2,GSE10373,GSM262004,"IAC165, 4 days after infection with S. hermonthica, biological replicate #1",Bio,Weed,Treatment
+16,2,GSE10373,GSM262005,"IAC165, 4 days after infection with S. hermonthica, biological replicate #2",Bio,Weed,Treatment
+17,2,GSE10373,GSM262006,"IAC165, 11 days after mock-infection, biological replicate #1",Bio,Weed,Control
+18,2,GSE10373,GSM262007,"IAC165, 11 days after mock-infection, biological replicate #2",Bio,Weed,Control
+19,2,GSE10373,GSM262008,"IAC165, 11 days after infection with S. hermonthica, biological replicate #1",Bio,Weed,Treatment
+20,2,GSE10373,GSM262009,"IAC165, 11 days after infection with S. hermonthica, biological replicate #2",Bio,Weed,Treatment
+21,2,GSE10373,GSM262010,"Nipponbare, 2 days after mock-infection, biological replicate #1",Bio,Weed,Control
+22,2,GSE10373,GSM262011,"Nipponbare, 2 days after mock-infection, biological replicate #2",Bio,Weed,Control
+23,2,GSE10373,GSM262012,"Nipponbare, 2 days after infection with S. hermonthica, biological replicate #1",Bio,Weed,Treatment
+24,2,GSE10373,GSM262013,"Nipponbare, 2 days after infection with S. hermonthica, biological replicate #2",Bio,Weed,Treatment
+25,2,GSE10373,GSM262014,"Nipponbare, 4 days after mock-infection, biological replicate #1",Bio,Weed,Control
+26,2,GSE10373,GSM262015,"Nipponbare, 4 days after mock-infection, biological replicate #2",Bio,Weed,Control
+27,2,GSE10373,GSM262016,"Nipponbare, 4 days after infection with S. hermonthica, biological replicate #1",Bio,Weed,Treatment
+28,2,GSE10373,GSM262017,"Nipponbare, 4 days after infection with S. hermonthica, biological replicate #2",Bio,Weed,Treatment
+29,2,GSE10373,GSM262018,"Nipponbare, 11 days after mock-infection, biological replicate #1",Bio,Weed,Control
+30,2,GSE10373,GSM262019,"Nipponbare, 11 days after mock-infection, biological replicate #2",Bio,Weed,Control
+31,2,GSE10373,GSM262020,"Nipponbare, 11 days after infection with S. hermonthica, biological replicate #1",Bio,Weed,Treatment
+32,2,GSE10373,GSM262021,"Nipponbare, 11 days after infection with S. hermonthica, biological replicate #2",Bio,Weed,Treatment
+33,3,GSE11025,GSM278844,"WuYun3-RSV infected, biological rep1",Bio,Virus,Treatment
+34,3,GSE11025,GSM278845,"WuYun3-RSV infected, biological rep2",Bio,Virus,Treatment
+35,3,GSE11025,GSM278846,"WuYun3-RSV infected, biological rep3",Bio,Virus,Treatment
+36,3,GSE11025,GSM278847,"WuYun3-non-infected, biological rep1",Bio,Virus,Control
+37,3,GSE11025,GSM278848,"WuYun3-non-infected, biological rep2",Bio,Virus,Control
+38,3,GSE11025,GSM278849,"WuYun3-non-infected, biological rep3",Bio,Virus,Control
+39,3,GSE11025,GSM278850,"KT95-418-RSV infected, biological rep1",Bio,Virus,Treatment
+40,3,GSE11025,GSM278851,"KT95-418-RSV infected,biological rep2",Bio,Virus,Treatment
+41,3,GSE11025,GSM278852,"KT95-418-RSV infected, biological rep3",Bio,Virus,Treatment
+42,3,GSE11025,GSM278853,"KT95-418-non-infected, biological rep1",Bio,Virus,Control
+43,3,GSE11025,GSM278854,"KT95-418-non-infected, biological rep2",Bio,Virus,Control
+44,3,GSE11025,GSM278855,"KT95-418-non-infected, biological rep3",Bio,Virus,Control
+45,4,GSE16793,GSM421667,"XOC, 2 hai - rep1",Bio,Bacteria,Treatment
+46,4,GSE16793,GSM421668,"XOC, 2 hai - rep2",Bio,Bacteria,Treatment
+47,4,GSE16793,GSM421669,"XOC, 2 hai - rep3",Bio,Bacteria,Treatment
+48,4,GSE16793,GSM421670,"XOC, 2 hai - rep4",Bio,Bacteria,Treatment
+49,4,GSE16793,GSM421671,"XOC, 4 hai - rep1",Bio,Bacteria,Treatment
+50,4,GSE16793,GSM421672,"XOC, 4 hai - rep2",Bio,Bacteria,Treatment
+51,4,GSE16793,GSM421673,"XOC, 4 hai - rep3",Bio,Bacteria,Treatment
+52,4,GSE16793,GSM421674,"XOC, 4 hai - rep4",Bio,Bacteria,Treatment
+53,4,GSE16793,GSM421675,"XOC, 8 hai - rep1",Bio,Bacteria,Treatment
+54,4,GSE16793,GSM421676,"XOC, 8 hai - rep2",Bio,Bacteria,Treatment
+55,4,GSE16793,GSM421677,"XOC, 8 hai - rep3",Bio,Bacteria,Treatment
+56,4,GSE16793,GSM421678,"XOC, 8 hai - rep4",Bio,Bacteria,Treatment
+57,4,GSE16793,GSM421679,"XOC, 24 hai - rep1",Bio,Bacteria,Treatment
+58,4,GSE16793,GSM421680,"XOC, 24 hai - rep2",Bio,Bacteria,Treatment
+59,4,GSE16793,GSM421681,"XOC, 24 hai - rep3",Bio,Bacteria,Treatment
+60,4,GSE16793,GSM421682,"XOC, 24 hai - rep4",Bio,Bacteria,Treatment
+61,4,GSE16793,GSM421683,"XOC, 96 hai - rep1",Bio,Bacteria,Treatment
+62,4,GSE16793,GSM421684,"XOC, 96 hai - rep2",Bio,Bacteria,Treatment
+63,4,GSE16793,GSM421685,"XOC, 96 hai - rep3",Bio,Bacteria,Treatment
+64,4,GSE16793,GSM421686,"XOC, 96 hai - rep4",Bio,Bacteria,Treatment
+65,4,GSE16793,GSM421687,"XOO, 2 hai - rep1",Bio,Bacteria,Treatment
+66,4,GSE16793,GSM421688,"XOO, 2 hai - rep2",Bio,Bacteria,Treatment
+67,4,GSE16793,GSM421689,"XOO, 2 hai - rep3",Bio,Bacteria,Treatment
+68,4,GSE16793,GSM421690,"XOO, 2 hai - rep4",Bio,Bacteria,Treatment
+69,4,GSE16793,GSM421691,"XOO, 4 hai - rep1",Bio,Bacteria,Treatment
+70,4,GSE16793,GSM421692,"XOO, 4 hai - rep2",Bio,Bacteria,Treatment
+71,4,GSE16793,GSM421693,"XOO, 4 hai - rep3",Bio,Bacteria,Treatment
+72,4,GSE16793,GSM421694,"XOO, 4 hai - rep4",Bio,Bacteria,Treatment
+73,4,GSE16793,GSM421695,"XOO, 8 hai - rep1",Bio,Bacteria,Treatment
+74,4,GSE16793,GSM421696,"XOO, 8 hai - rep2",Bio,Bacteria,Treatment
+75,4,GSE16793,GSM421697,"XOO, 8 hai - rep3",Bio,Bacteria,Treatment
+76,4,GSE16793,GSM421698,"XOO, 8 hai - rep4",Bio,Bacteria,Treatment
+77,4,GSE16793,GSM421699,"XOO, 24 hai - rep1",Bio,Bacteria,Treatment
+78,4,GSE16793,GSM421700,"XOO, 24 hai - rep2",Bio,Bacteria,Treatment
+79,4,GSE16793,GSM421701,"XOO, 24 hai - rep3",Bio,Bacteria,Treatment
+80,4,GSE16793,GSM421702,"XOO, 24 hai - rep4",Bio,Bacteria,Treatment
+81,4,GSE16793,GSM421703,"XOO, 96 hai - rep1",Bio,Bacteria,Treatment
+82,4,GSE16793,GSM421704,"XOO, 96 hai - rep2",Bio,Bacteria,Treatment
+83,4,GSE16793,GSM421705,"XOO, 96 hai - rep3",Bio,Bacteria,Treatment
+84,4,GSE16793,GSM421706,"XOO, 96 hai - rep4",Bio,Bacteria,Treatment
+85,4,GSE16793,GSM421707,"MOCK, 2 hai - rep1",Bio,Bacteria,Control
+86,4,GSE16793,GSM421708,"MOCK, 2 hai - rep2",Bio,Bacteria,Control
+87,4,GSE16793,GSM421709,"MOCK, 2 hai - rep3",Bio,Bacteria,Control
+88,4,GSE16793,GSM421710,"MOCK, 2 hai - rep4",Bio,Bacteria,Control
+89,4,GSE16793,GSM421711,"MOCK, 4 hai - rep1",Bio,Bacteria,Control
+90,4,GSE16793,GSM421712,"MOCK, 4 hai - rep2",Bio,Bacteria,Control
+91,4,GSE16793,GSM421713,"MOCK, 4 hai - rep3",Bio,Bacteria,Control
+92,4,GSE16793,GSM421714,"MOCK, 4 hai - rep4",Bio,Bacteria,Control
+93,4,GSE16793,GSM421715,"MOCK, 8 hai - rep1",Bio,Bacteria,Control
+94,4,GSE16793,GSM421716,"MOCK, 8 hai - rep2",Bio,Bacteria,Control
+95,4,GSE16793,GSM421717,"MOCK, 8 hai - rep3",Bio,Bacteria,Control
+96,4,GSE16793,GSM421718,"MOCK, 8 hai - rep4",Bio,Bacteria,Control
+97,4,GSE16793,GSM421719,"MOCK, 24 hai - rep1",Bio,Bacteria,Control
+98,4,GSE16793,GSM421720,"MOCK, 24 hai - rep2",Bio,Bacteria,Control
+99,4,GSE16793,GSM421721,"MOCK, 24 hai - rep3",Bio,Bacteria,Control
+100,4,GSE16793,GSM421722,"MOCK, 24 hai - rep4",Bio,Bacteria,Control
+101,4,GSE16793,GSM421723,"MOCK, 96 hai - rep1",Bio,Bacteria,Control
+102,4,GSE16793,GSM421724,"MOCK, 96 hai - rep2",Bio,Bacteria,Control
+103,4,GSE16793,GSM421725,"MOCK, 96 hai - rep3",Bio,Bacteria,Control
+104,4,GSE16793,GSM421726,"MOCK, 96 hai - rep4",Bio,Bacteria,Control
+105,5,GSE18361,GSM458175,Mock inoculated root 2 dpi rep 1,Bio,Fungus,Control
+106,5,GSE18361,GSM458176,Mock inoculated root 2 dpi rep 2,Bio,Fungus,Control
+107,5,GSE18361,GSM458177,Mock inoculated root 4 dpi rep 1,Bio,Fungus,Control
+108,5,GSE18361,GSM458178,Mock inoculated root 4 dpi rep 2,Bio,Fungus,Control
+109,5,GSE18361,GSM458179,Mock inoculated root 6 dpi rep 1,Bio,Fungus,Control
+110,5,GSE18361,GSM458180,Mock inoculated root 6 dpi rep 2,Bio,Fungus,Control
+111,5,GSE18361,GSM458181,Magnaporthe oryzae Guy11 inoculated root 2 dpi rep 1,Bio,Fungus,Treatment
+112,5,GSE18361,GSM458182,Magnaporthe oryzae Guy11 inoculated root 2 dpi rep 2,Bio,Fungus,Treatment
+113,5,GSE18361,GSM458183,Magnaporthe oryzae Guy11 inoculated root 4 dpi rep 1,Bio,Fungus,Treatment
+114,5,GSE18361,GSM458184,Magnaporthe oryzae Guy11 inoculated root 4 dpi rep 2,Bio,Fungus,Treatment
+115,5,GSE18361,GSM458185,Magnaporthe oryzae Guy11 inoculated root 6 dpi rep 1,Bio,Fungus,Treatment
+116,5,GSE18361,GSM458186,Magnaporthe oryzae Guy11 inoculated root 6 dpi rep 2,Bio,Fungus,Treatment
+117,6,GSE19239,GSM476775,"Rice-9804-Xoc, biological rep1",Bio,Bacteria,Treatment
+118,6,GSE19239,GSM476776,"Rice-9804-Xoc, biological rep2",Bio,Bacteria,Treatment
+119,6,GSE19239,GSM476777,"Rice-9804-Xoc, biological rep3",Bio,Bacteria,Treatment
+120,6,GSE19239,GSM476778,"Rice-9804, biological rep1",Bio,Bacteria,Control
+121,6,GSE19239,GSM476779,"Rice-9804, biological rep2",Bio,Bacteria,Control
+122,6,GSE19239,GSM476780,"Rice-9804, biological rep3",Bio,Bacteria,Control
+123,7,GSE19844,GSM495736,Delta_1 with array type rice from Affymetrix,Bio,Bacteria,Treatment
+124,7,GSE19844,GSM495737,H_1 with array type rice from Affymetrix,Bio,Bacteria,Control
+125,7,GSE19844,GSM495738,Delta_3 with array type rice from Affymetrix,Bio,Bacteria,Treatment
+126,7,GSE19844,GSM495739,Delta_2 with array type rice from Affymetrix,Bio,Bacteria,Treatment
+127,7,GSE19844,GSM495740,W_1 with array type rice from Affymetrix,Bio,Bacteria,Treatment
+128,7,GSE19844,GSM495741,W_2 with array type rice from Affymetrix,Bio,Bacteria,Treatment
+129,7,GSE19844,GSM495742,W_3 with array type rice from Affymetrix,Bio,Bacteria,Treatment
+130,7,GSE19844,GSM495743,H_2 with array type rice from Affymetrix,Bio,Bacteria,Control
+131,7,GSE19844,GSM495744,H_3 with array type rice from Affymetrix,Bio,Bacteria,Control
+132,8,GSE21772,GSM542564,temoin_2 with array type rice from Affymetrix,Bio,Nematode,Control
+133,8,GSE21772,GSM542565,144hpi_2 with array type rice from Affymetrix,Bio,Nematode,Treatment
+134,8,GSE21772,GSM542566,temoin_3 with array type rice from Affymetrix,Bio,Nematode,Control
+135,8,GSE21772,GSM542567,144hpi_3 with array type rice from Affymetrix,Bio,Nematode,Treatment
+136,8,GSE21772,GSM542568,temoin_1 with array type rice from Affymetrix,Bio,Nematode,Control
+137,8,GSE21772,GSM542569,144hpi_1 with array type rice from Affymetrix,Bio,Nematode,Treatment
+138,9,GSE21919,GSM545318,temoina_1 with array type rice from Affymetrix,Bio,Nematode,Control
+139,9,GSE21919,GSM545319,48hpia_1 with array type rice from Affymetrix,Bio,Nematode,Treatment
+140,9,GSE21919,GSM545320,48hpib_2 with array type rice from Affymetrix,Bio,Nematode,Treatment
+141,9,GSE21919,GSM545321,temoinb_2 with array type rice from Affymetrix,Bio,Nematode,Control
+142,9,GSE21919,GSM545322,96hpia_1 with array type rice from Affymetrix,Bio,Nematode,Treatment
+143,9,GSE21919,GSM545323,96hpib_2 with array type rice from Affymetrix,Bio,Nematode,Treatment
+144,9,GSE21919,GSM545324,48hpic_3 with array type rice from Affymetrix,Bio,Nematode,Treatment
+145,9,GSE21919,GSM545325,96hpic_3 with array type rice from Affymetrix,Bio,Nematode,Treatment
+146,9,GSE21919,GSM545326,temoinc_3 with array type rice from Affymetrix,Bio,Nematode,Control
+147,10,GSE28012,GSM692770,Rice Stem-control,Bio,Insect,Control
+148,10,GSE28012,GSM692771,Rice stem_SSB infested by 24 h-Rep1,Bio,Insect,Treatment
+149,10,GSE28012,GSM692772,Rice stem_SSB infested by 24 h-Rep2,Bio,Insect,Treatment
+150,11,GSE29967,GSM741672,"RHT stem at T0, biological rep1",Bio,Insect,Control
+151,11,GSE29967,GSM741673,"RHT stem at T0, biological rep2",Bio,Insect,Control
+152,11,GSE29967,GSM741674,"RHT stem at T0, biological rep3",Bio,Insect,Control
+153,11,GSE29967,GSM741675,"RHT stem at T8, biological rep1",Bio,Insect,Treatment
+154,11,GSE29967,GSM741676,"RHT stem at T8, biological rep2",Bio,Insect,Treatment
+155,11,GSE29967,GSM741677,"RHT stem at T8, biological rep3",Bio,Insect,Treatment
+156,11,GSE29967,GSM741678,"RHT stem at T24, biological rep1",Bio,Insect,Treatment
+157,11,GSE29967,GSM741679,"RHT stem at T24, biological rep2",Bio,Insect,Treatment
+158,11,GSE29967,GSM741680,"RHT stem at T24, biological rep3",Bio,Insect,Treatment
+159,11,GSE29967,GSM741681,"TN1 stem at T0, biological rep1",Bio,Insect,Control
+160,11,GSE29967,GSM741682,"TN1 stem at T0, biological rep2",Bio,Insect,Control
+161,11,GSE29967,GSM741683,"TN1 stem at T0, biological rep3",Bio,Insect,Control
+162,11,GSE29967,GSM741684,"TN1 stem at T8, biological rep1",Bio,Insect,Treatment
+163,11,GSE29967,GSM741685,"TN1 stem at T8, biological rep2",Bio,Insect,Treatment
+164,11,GSE29967,GSM741686,"TN1 stem at T8, biological rep3",Bio,Insect,Treatment
+165,11,GSE29967,GSM741687,"TN1 stem at T24, biological rep1",Bio,Insect,Treatment
+166,11,GSE29967,GSM741688,"TN1 stem at T24, biological rep2",Bio,Insect,Treatment
+167,11,GSE29967,GSM741689,"TN1 stem at T24, biological rep3",Bio,Insect,Treatment
+168,12,GSE30941,GSM767204,"BR29 at 24 hpi, biological replicate 1",Bio,Fungus,Treatment
+169,12,GSE30941,GSM767205,"BR29 at 24 hpi, biological replicate 2",Bio,Fungus,Treatment
+170,12,GSE30941,GSM767206,"BR29 at 24 hpi, biological replicate 3",Bio,Fungus,Treatment
+171,12,GSE30941,GSM767207,"BR32 at 24 hpi, biological replicate 1",Bio,Fungus,Treatment
+172,12,GSE30941,GSM767208,"BR32 at 24 hpi, biological replicate 2",Bio,Fungus,Treatment
+173,12,GSE30941,GSM767209,"BR32 at 24 hpi, biological replicate 3",Bio,Fungus,Treatment
+174,12,GSE30941,GSM767210,"CL367 at 24 hpi, biological replicate 1",Bio,Fungus,Treatment
+175,12,GSE30941,GSM767211,"CL367 at 24 hpi, biological replicate 2",Bio,Fungus,Treatment
+176,12,GSE30941,GSM767212,"CL367 at 24 hpi, biological replicate 3",Bio,Fungus,Treatment
+177,12,GSE30941,GSM767213,"FR13 at 24 hpi, biological replicate 1",Bio,Fungus,Treatment
+178,12,GSE30941,GSM767214,"FR13 at 24 hpi, biological replicate 2",Bio,Fungus,Treatment
+179,12,GSE30941,GSM767215,"FR13 at 24 hpi, biological replicate 3",Bio,Fungus,Treatment
+180,12,GSE30941,GSM767216,"mock at T24 hpi, biological replicate 1",Bio,Fungus,Control
+181,12,GSE30941,GSM767217,"mock at T24 hpi, biological replicate 2",Bio,Fungus,Control
+182,12,GSE30941,GSM767218,"mock at T24 hpi, biological replicate 3",Bio,Fungus,Control
+183,13,GSE30942,GSM767219,"Bgh at 24 hpi, biological replicate 1",Bio,Fungus,Treatment
+184,13,GSE30942,GSM767220,"Bgh at 24 hpi, biological replicate 2",Bio,Fungus,Treatment
+185,13,GSE30942,GSM767221,"Bgh at 24 hpi, biological replicate 3",Bio,Fungus,Treatment
+186,13,GSE30942,GSM767222,"mock at T24 hpi, biological rep1",Bio,Fungus,Control
+187,13,GSE30942,GSM767223,"mock at T24 hpi, biological rep2",Bio,Fungus,Control
+188,13,GSE30942,GSM767224,"mock at T24 hpi, biological rep3",Bio,Fungus,Control
+189,14,GSE32426,GSM802478,"Nipponbare, callus 0, biological rep1",Bio,Bacteria,Control
+190,14,GSE32426,GSM802479,"Nipponbare, callus 0, biological rep2",Bio,Bacteria,Control
+191,14,GSE32426,GSM802480,"Nipponbare, callus 0, biological rep3",Bio,Bacteria,Control
+192,14,GSE32426,GSM802481,"Nipponbare, callus 1hr, biological rep1",Bio,Bacteria,Treatment
+193,14,GSE32426,GSM802482,"Nipponbare, callus 1hr, biological rep2",Bio,Bacteria,Treatment
+194,14,GSE32426,GSM802483,"Nipponbare, callus 1hr, biological rep3",Bio,Bacteria,Treatment
+195,14,GSE32426,GSM802484,"Nipponbare, callus 6hr, biological rep1",Bio,Bacteria,Treatment
+196,14,GSE32426,GSM802485,"Nipponbare, callus 6hr, biological rep2",Bio,Bacteria,Treatment
+197,14,GSE32426,GSM802486,"Nipponbare, callus 6hr, biological rep3",Bio,Bacteria,Treatment
+198,14,GSE32426,GSM802487,"Nipponbare, callus 12hr, biological rep1",Bio,Bacteria,Treatment
+199,14,GSE32426,GSM802488,"Nipponbare, callus 12hr, biological rep2",Bio,Bacteria,Treatment
+200,14,GSE32426,GSM802489,"Nipponbare, callus 12hr, biological rep3",Bio,Bacteria,Treatment
+201,14,GSE32426,GSM802490,"Nipponbare, callus 24hr, biological rep1",Bio,Bacteria,Treatment
+202,14,GSE32426,GSM802491,"Nipponbare, callus 24hr, biological rep2",Bio,Bacteria,Treatment
+203,14,GSE32426,GSM802492,"Nipponbare, callus 24hr, biological rep3",Bio,Bacteria,Treatment
+204,14,GSE32426,GSM802493,"Zhenshan 97, callus 0, biological rep1",Bio,Bacteria,Control
+205,14,GSE32426,GSM802494,"Zhenshan 97, callus 0, biological rep2",Bio,Bacteria,Control
+206,14,GSE32426,GSM802495,"Zhenshan 97, callus 0, biological rep3",Bio,Bacteria,Control
+207,14,GSE32426,GSM802496,"Zhenshan 97, callus 1hr, biological rep1",Bio,Bacteria,Treatment
+208,14,GSE32426,GSM802497,"Zhenshan 97, callus 1hr, biological rep2",Bio,Bacteria,Treatment
+209,14,GSE32426,GSM802498,"Zhenshan 97, callus 1hr, biological rep3",Bio,Bacteria,Treatment
+210,14,GSE32426,GSM802499,"Zhenshan 97, callus 6hr, biological rep1",Bio,Bacteria,Treatment
+211,14,GSE32426,GSM802500,"Zhenshan 97, callus 6hr, biological rep2",Bio,Bacteria,Treatment
+212,14,GSE32426,GSM802501,"Zhenshan 97, callus 6hr, biological rep3",Bio,Bacteria,Treatment
+213,14,GSE32426,GSM802502,"Zhenshan 97, callus 12hr, biological rep1",Bio,Bacteria,Treatment
+214,14,GSE32426,GSM802503,"Zhenshan 97, callus 12hr, biological rep2",Bio,Bacteria,Treatment
+215,14,GSE32426,GSM802504,"Zhenshan 97, callus 12hr, biological rep3",Bio,Bacteria,Treatment
+216,14,GSE32426,GSM802505,"Zhenshan 97, callus 24hr, biological rep1",Bio,Bacteria,Treatment
+217,14,GSE32426,GSM802506,"Zhenshan 97, callus 24hr, biological rep2",Bio,Bacteria,Treatment
+218,14,GSE32426,GSM802507,"Zhenshan 97, callus 24hr, biological rep3",Bio,Bacteria,Treatment
+219,14,GSE32426,GSM802509,"Nipponbare genomic DNA, biological rep1",Bio,Bacteria,Control
+220,14,GSE32426,GSM802510,"Nipponbare genomic DNA, biological rep2",Bio,Bacteria,Control
+221,14,GSE32426,GSM802511,"Nipponbare genomic DNA, biological rep3",Bio,Bacteria,Control
+222,14,GSE32426,GSM802512,"Zhenshan 97 genomic DNA, biological rep1",Bio,Bacteria,Control
+223,14,GSE32426,GSM802513,"Zhenshan 97 genomic DNA, biological rep2",Bio,Bacteria,Control
+224,14,GSE32426,GSM802514,"Zhenshan 97 genomic DNA, biological rep3",Bio,Bacteria,Control
+225,15,GSE33411,GSM826497,genotype: IR24 - time: 0 hai - rep1,Bio,Bacteria,Control
+226,15,GSE33411,GSM826498,genotype: IR24 - time: 0 hai - rep2,Bio,Bacteria,Control
+227,15,GSE33411,GSM826499,genotype: IR24 - time: 0 hai - rep3,Bio,Bacteria,Control
+228,15,GSE33411,GSM826500,genotype: IR24 - time: 3 hai - rep1,Bio,Bacteria,Treatment
+229,15,GSE33411,GSM826501,genotype: IR24 - time: 3 hai - rep2,Bio,Bacteria,Treatment
+230,15,GSE33411,GSM826502,genotype: IR24 - time: 3 hai - rep3,Bio,Bacteria,Treatment
+231,15,GSE33411,GSM826503,genotype: IR24 - time: 6 hai - rep1,Bio,Bacteria,Treatment
+232,15,GSE33411,GSM826504,genotype: IR24 - time: 6 hai - rep2,Bio,Bacteria,Treatment
+233,15,GSE33411,GSM826505,genotype: IR24 - time: 6 hai - rep3,Bio,Bacteria,Treatment
+234,15,GSE33411,GSM826506,genotype: IR24 - time: 12 hai - rep1,Bio,Bacteria,Treatment
+235,15,GSE33411,GSM826507,genotype: IR24 - time: 12 hai - rep2,Bio,Bacteria,Treatment
+236,15,GSE33411,GSM826508,genotype: IR24 - time: 12 hai - rep3,Bio,Bacteria,Treatment
+237,15,GSE33411,GSM826509,genotype: IR24 - time: 24 hai - rep1,Bio,Bacteria,Treatment
+238,15,GSE33411,GSM826510,genotype: IR24 - time: 24 hai - rep2,Bio,Bacteria,Treatment
+239,15,GSE33411,GSM826511,genotype: IR24 - time: 24 hai - rep3,Bio,Bacteria,Treatment
+240,15,GSE33411,GSM826512,genotype: IRBB5 - time: 0 hai - rep1,Bio,Bacteria,Control
+241,15,GSE33411,GSM826513,genotype: IRBB5 - time: 0 hai - rep2,Bio,Bacteria,Control
+242,15,GSE33411,GSM826514,genotype: IRBB5 - time: 0 hai - rep3,Bio,Bacteria,Control
+243,15,GSE33411,GSM826515,genotype: IRBB5 - time: 3 hai - rep1,Bio,Bacteria,Treatment
+244,15,GSE33411,GSM826516,genotype: IRBB5 - time: 3 hai - rep2,Bio,Bacteria,Treatment
+245,15,GSE33411,GSM826517,genotype: IRBB5 - time: 3 hai - rep3,Bio,Bacteria,Treatment
+246,15,GSE33411,GSM826518,genotype: IRBB5 - time: 6 hai - rep1,Bio,Bacteria,Treatment
+247,15,GSE33411,GSM826519,genotype: IRBB5 - time: 6 hai - rep2,Bio,Bacteria,Treatment
+248,15,GSE33411,GSM826520,genotype: IRBB5 - time: 6 hai - rep3,Bio,Bacteria,Treatment
+249,15,GSE33411,GSM826521,genotype: IRBB5 - time: 12 hai - rep1,Bio,Bacteria,Treatment
+250,15,GSE33411,GSM826522,genotype: IRBB5 - time: 12 hai - rep2,Bio,Bacteria,Treatment
+251,15,GSE33411,GSM826523,genotype: IRBB5 - time: 12 hai - rep3,Bio,Bacteria,Treatment
+252,15,GSE33411,GSM826524,genotype: IRBB5 - time: 24 hai - rep1,Bio,Bacteria,Treatment
+253,15,GSE33411,GSM826525,genotype: IRBB5 - time: 24 hai - rep2,Bio,Bacteria,Treatment
+254,15,GSE33411,GSM826526,genotype: IRBB5 - time: 24 hai - rep3,Bio,Bacteria,Treatment
+255,15,GSE33411,GSM826527,genotype: IRBB7 - time: 0 hai - rep1,Bio,Bacteria,Control
+256,15,GSE33411,GSM826528,genotype: IRBB7 - time: 0 hai - rep2,Bio,Bacteria,Control
+257,15,GSE33411,GSM826529,genotype: IRBB7 - time: 0 hai - rep3,Bio,Bacteria,Control
+258,15,GSE33411,GSM826530,genotype: IRBB7 - time: 3 hai - rep1,Bio,Bacteria,Treatment
+259,15,GSE33411,GSM826531,genotype: IRBB7 - time: 3 hai - rep2,Bio,Bacteria,Treatment
+260,15,GSE33411,GSM826532,genotype: IRBB7 - time: 3 hai - rep3,Bio,Bacteria,Treatment
+261,15,GSE33411,GSM826533,genotype: IRBB7 - time: 6 hai - rep1,Bio,Bacteria,Treatment
+262,15,GSE33411,GSM826534,genotype: IRBB7 - time: 6 hai - rep2,Bio,Bacteria,Treatment
+263,15,GSE33411,GSM826535,genotype: IRBB7 - time: 6 hai - rep3,Bio,Bacteria,Treatment
+264,15,GSE33411,GSM826536,genotype: IRBB7 - time: 12 hai - rep1,Bio,Bacteria,Treatment
+265,15,GSE33411,GSM826537,genotype: IRBB7 - time: 12 hai - rep2,Bio,Bacteria,Treatment
+266,15,GSE33411,GSM826538,genotype: IRBB7 - time: 12 hai - rep3,Bio,Bacteria,Treatment
+267,15,GSE33411,GSM826539,genotype: IRBB7 - time: 24 hai - rep1,Bio,Bacteria,Treatment
+268,15,GSE33411,GSM826540,genotype: IRBB7 - time: 24 hai - rep2,Bio,Bacteria,Treatment
+269,15,GSE33411,GSM826541,genotype: IRBB7 - time: 24 hai - rep3,Bio,Bacteria,Treatment
+270,16,GSE36093,GSM880997,"Y73 Xoo inoculation at 24 hpi, biological rep1",Bio,Bacteria,Treatment
+271,16,GSE36093,GSM880998,"Y73 Xoo inoculation at 24 hpi, biological rep2",Bio,Bacteria,Treatment
+272,16,GSE36093,GSM880999,"Y73 Xoo inoculation at 24 hpi, biological rep3",Bio,Bacteria,Treatment
+273,16,GSE36093,GSM881000,"Y73 mock inoculation at 24 hpi, biological rep1",Bio,Bacteria,Control
+274,16,GSE36093,GSM881001,"Y73 mock inoculation at 24 hpi, biological rep2",Bio,Bacteria,Control
+275,16,GSE36093,GSM881002,"Y73 mock inoculation at 24 hpi, biological rep3",Bio,Bacteria,Control
+276,17,GSE36272,GSM885697,cultivar: Nipponbare - strain: PXO99A - rep1,Bio,Bacteria,Treatment
+277,17,GSE36272,GSM885698,cultivar: Nipponbare - strain: PXO99A - rep2,Bio,Bacteria,Treatment
+278,17,GSE36272,GSM885699,cultivar: Nipponbare - strain: PXO99A - rep3,Bio,Bacteria,Treatment
+279,17,GSE36272,GSM885700,cultivar: Nipponbare - strain: PXO99AME7 - rep1,Bio,Bacteria,Treatment
+280,17,GSE36272,GSM885701,cultivar: Nipponbare - strain: PXO99AME7 - rep2,Bio,Bacteria,Treatment
+281,17,GSE36272,GSM885702,cultivar: Nipponbare - strain: PXO99AME7 - rep3,Bio,Bacteria,Treatment
+282,17,GSE36272,GSM885703,cultivar: Nipponbare - strain: PXO99AME5 - rep1,Bio,Bacteria,Treatment
+283,17,GSE36272,GSM885704,cultivar: Nipponbare - strain: PXO99AME5 - rep2,Bio,Bacteria,Treatment
+284,17,GSE36272,GSM885705,cultivar: Nipponbare - strain: PXO99AME5 - rep3,Bio,Bacteria,Treatment
+285,17,GSE36272,GSM885706,cultivar: Nipponbare - strain: MOCK - rep1,Bio,Bacteria,Control
+286,17,GSE36272,GSM885707,cultivar: Nipponbare - strain: MOCK - rep2,Bio,Bacteria,Control
+287,17,GSE36272,GSM885708,cultivar: Nipponbare - strain: MOCK - rep3,Bio,Bacteria,Control
+288,17,GSE36272,GSM885709,cultivar: Nipponbare - strain: NO TREATMENT - rep1,Bio,Bacteria,Control
+289,17,GSE36272,GSM885710,cultivar: Nipponbare - strain: NO TREATMENT - rep2,Bio,Bacteria,Control
+290,17,GSE36272,GSM885711,cultivar: Nipponbare - strain: T7174 - rep1,Bio,Bacteria,Treatment
+291,17,GSE36272,GSM885712,cultivar: Nipponbare - strain: T7174 - rep2,Bio,Bacteria,Treatment
+292,17,GSE36272,GSM885713,cultivar: Nipponbare - strain: T7174 - rep3,Bio,Bacteria,Treatment
+293,17,GSE36272,GSM885714,cultivar: Nipponbare - strain: PXO86 - rep1,Bio,Bacteria,Treatment
+294,17,GSE36272,GSM885715,cultivar: Nipponbare - strain: PXO86 - rep2,Bio,Bacteria,Treatment
+295,17,GSE36272,GSM885716,cultivar: Nipponbare - strain: PXO86 - rep3,Bio,Bacteria,Treatment
+296,17,GSE36272,GSM885717,cultivar: Nipponbare - strain: BLS303 - rep1,Bio,Bacteria,Treatment
+297,17,GSE36272,GSM885718,cultivar: Nipponbare - strain: BLS303 - rep2,Bio,Bacteria,Treatment
+298,17,GSE36272,GSM885719,cultivar: Nipponbare - strain: BLS303 - rep3,Bio,Bacteria,Treatment
+299,17,GSE36272,GSM885720,cultivar: Nipponbare - strain: PXO99AME1 - rep1,Bio,Bacteria,Treatment
+300,17,GSE36272,GSM885721,cultivar: Nipponbare - strain: PXO99AME1 - rep2,Bio,Bacteria,Treatment
+301,17,GSE36272,GSM885722,cultivar: Nipponbare - strain: PXO99AME1 - rep3,Bio,Bacteria,Treatment
+302,17,GSE36272,GSM885723,cultivar: Nipponbare - strain: PXO99AME2 - rep1,Bio,Bacteria,Treatment
+303,17,GSE36272,GSM885724,cultivar: Nipponbare - strain: PXO99AME2 - rep2,Bio,Bacteria,Treatment
+304,17,GSE36272,GSM885725,cultivar: Nipponbare - strain: PXO99AME2 - rep3,Bio,Bacteria,Treatment
+305,17,GSE36272,GSM885726,cultivar: Nipponbare - strain: PXO99A-2 - rep1,Bio,Bacteria,Treatment
+306,17,GSE36272,GSM885727,cultivar: Nipponbare - strain: PXO99A-2 - rep2,Bio,Bacteria,Treatment
+307,17,GSE36272,GSM885728,cultivar: Nipponbare - strain: PXO99A-2 - rep3,Bio,Bacteria,Treatment
+308,17,GSE36272,GSM885729,cultivar: IR24 - strain: PXO99A - rep1,Bio,Bacteria,Treatment
+309,17,GSE36272,GSM885730,cultivar: IR24 - strain: PXO99A - rep2,Bio,Bacteria,Treatment
+310,17,GSE36272,GSM885731,cultivar: IR24 - strain: PXO99A - rep3,Bio,Bacteria,Treatment
+311,17,GSE36272,GSM885732,cultivar: IR24 - strain: PXO99AME7 - rep1,Bio,Bacteria,Treatment
+312,17,GSE36272,GSM885733,cultivar: IR24 - strain: PXO99AME7 - rep2,Bio,Bacteria,Treatment
+313,17,GSE36272,GSM885734,cultivar: IR24 - strain: PXO99AME7 - rep3,Bio,Bacteria,Treatment
+314,17,GSE36272,GSM885735,cultivar: IR24 - strain: PXO99AME5 - rep1,Bio,Bacteria,Treatment
+315,17,GSE36272,GSM885736,cultivar: IR24 - strain: PXO99AME5 - rep2,Bio,Bacteria,Treatment
+316,17,GSE36272,GSM885737,cultivar: IR24 - strain: PXO99AME5 - rep3,Bio,Bacteria,Treatment
+317,17,GSE36272,GSM885738,cultivar: IR24 - strain: MOCK - rep1,Bio,Bacteria,Control
+318,17,GSE36272,GSM885739,cultivar: IR24 - strain: MOCK - rep2,Bio,Bacteria,Control
+319,17,GSE36272,GSM885740,cultivar: IR24 - strain: MOCK - rep3,Bio,Bacteria,Control
+320,17,GSE36272,GSM885741,cultivar: IR24 - strain: NO TREATMENT - rep1,Bio,Bacteria,Control
+321,17,GSE36272,GSM885742,cultivar: IR24 - strain: NO TREATMENT - rep2,Bio,Bacteria,Control
+322,17,GSE36272,GSM885743,cultivar: IR24 - strain: NO TREATMENT - rep3,Bio,Bacteria,Control
+323,17,GSE36272,GSM885744,cultivar: IR24 - strain: T7174 - rep1,Bio,Bacteria,Treatment
+324,17,GSE36272,GSM885745,cultivar: IR24 - strain: T7174 - rep2,Bio,Bacteria,Treatment
+325,17,GSE36272,GSM885746,cultivar: IR24 - strain: T7174 - rep3,Bio,Bacteria,Treatment
+326,17,GSE36272,GSM885747,cultivar: IR24 - strain: PXO86 - rep1,Bio,Bacteria,Treatment
+327,17,GSE36272,GSM885748,cultivar: IR24 - strain: PXO86 - rep2,Bio,Bacteria,Treatment
+328,17,GSE36272,GSM885749,cultivar: IR24 - strain: PXO86 - rep3,Bio,Bacteria,Treatment
+329,17,GSE36272,GSM885750,cultivar: IR24 - strain: BLS303 - rep1,Bio,Bacteria,Treatment
+330,17,GSE36272,GSM885751,cultivar: IR24 - strain: BLS303 - rep2,Bio,Bacteria,Treatment
+331,17,GSE36272,GSM885752,cultivar: IR24 - strain: BLS303 - rep3,Bio,Bacteria,Treatment
+332,17,GSE36272,GSM885753,cultivar: IR24 - strain: PXO99AME1 - rep1,Bio,Bacteria,Treatment
+333,17,GSE36272,GSM885754,cultivar: IR24 - strain: PXO99AME1 - rep2,Bio,Bacteria,Treatment
+334,17,GSE36272,GSM885755,cultivar: IR24 - strain: PXO99AME1 - rep3,Bio,Bacteria,Treatment
+335,17,GSE36272,GSM885756,cultivar: IR24 - strain: PXO99AME2 - rep1,Bio,Bacteria,Treatment
+336,17,GSE36272,GSM885757,cultivar: IR24 - strain: PXO99AME2 - rep2,Bio,Bacteria,Treatment
+337,17,GSE36272,GSM885758,cultivar: IR24 - strain: PXO99AME2 - rep3,Bio,Bacteria,Treatment
+338,17,GSE36272,GSM885759,cultivar: IR24 - strain: PXO99A-2 - rep1,Bio,Bacteria,Treatment
+339,17,GSE36272,GSM885760,cultivar: IR24 - strain: PXO99A-2 - rep2,Bio,Bacteria,Treatment
+340,17,GSE36272,GSM885761,cultivar: IR24 - strain: PXO99A-2 - rep3,Bio,Bacteria,Treatment
+341,18,GSE4471,GSM100439,Rice Azucena 0ppm Arsenate (Control) Rep1,Abio,Metal,Control
+342,18,GSE4471,GSM100440,Rice Azucena 0ppm Arsenate (Control) Rep2,Abio,Metal,Control
+343,18,GSE4471,GSM100441,Rice Azucena 1ppm Arsenate Rep1,Abio,Metal,Treatment
+344,18,GSE4471,GSM100442,Rice Azucena 1ppm Arsenate Rep2,Abio,Metal,Treatment
+345,18,GSE4471,GSM100443,Rice Bala 0ppm Arsenate (Control) Rep1,Abio,Metal,Control
+346,18,GSE4471,GSM100444,Rice Bala 0ppm Arsenate (Control) Rep2,Abio,Metal,Control
+347,18,GSE4471,GSM100445,Rice Bala 1ppm Arsenate Rep1,Abio,Metal,Treatment
+348,18,GSE4471,GSM100446,Rice Bala 1ppm Arsenate Rep2,Abio,Metal,Treatment
+349,18,GSE4471,GSM149409,Rice Azucena 0ppm Arsenate (Control) Rep3,Abio,Metal,Control
+350,18,GSE4471,GSM149410,Rice Azucena 1ppm Arsenate Rep3,Abio,Metal,Treatment
+351,18,GSE4471,GSM149411,Rice Bala 0ppm Arsenate (Control) Rep3,Abio,Metal,Control
+352,18,GSE4471,GSM149412,Rice Bala 1ppm Arsenate Rep3,Abio,Metal,Treatment
+353,19,GSE6901,GSM159259,"7-day-old Seedling, biological rep 1",Abio,Drought,Control
+354,19,GSE6901,GSM159260,"7-day-old Seedling, biological rep 2",Abio,Drought,Control
+355,19,GSE6901,GSM159261,"7-day-old Seedling, biological rep 3",Abio,Drought,Control
+356,19,GSE6901,GSM159262,"Drought stress, biological rep 1",Abio,Drought,Treatment
+357,19,GSE6901,GSM159263,"Drought stress, biological rep 2",Abio,Drought,Treatment
+358,19,GSE6901,GSM159264,"Drought stress, biological rep 3",Abio,Drought,Treatment
+359,19,GSE6901,GSM159265,"Salt stress, biological rep 1",Abio,Salt,Treatment
+360,19,GSE6901,GSM159266,"Salt stress, biological rep 2",Abio,Salt,Treatment
+361,19,GSE6901,GSM159267,"Salt stress, biological rep 3",Abio,Salt,Treatment
+362,19,GSE6901,GSM159268,"Cold stress, biological rep 1",Abio,Cold,Treatment
+363,19,GSE6901,GSM159269,"Cold stress, biological rep 2",Abio,Cold,Treatment
+364,19,GSE6901,GSM159270,"Cold stress, biological rep 3",Abio,Cold,Treatment
+365,20,GSE14275,GSM357122,"14-day-old seedling, rep 1",Abio,Heat Shock,Control
+366,20,GSE14275,GSM357133,"14-day-old seedling, rep 2",Abio,Heat Shock,Control
+367,20,GSE14275,GSM357134,"14-day-old seedling, rep 3",Abio,Heat Shock,Control
+368,20,GSE14275,GSM357135,"14-day-old seedling, heat shock, rep 1",Abio,Heat Shock,Treatment
+369,20,GSE14275,GSM357136,"14-day-old seedling, heat shock, rep 2",Abio,Heat Shock,Treatment
+370,20,GSE14275,GSM357137,"14-day-old seedling, heat shock, rep 3",Abio,Heat Shock,Treatment
+371,21,GSE14403,GSM359902,"FL478 root, control, biological replicate 1",Abio,Salt,Control
+372,21,GSE14403,GSM359903,"FL478 root, control, biological replicate 2",Abio,Salt,Control
+373,21,GSE14403,GSM359904,"FL478 root, control, biological replicate 3",Abio,Salt,Control
+374,21,GSE14403,GSM359905,"FL478 root, salt-treated, biological replicate 1",Abio,Salt,Treatment
+375,21,GSE14403,GSM359906,"FL478 root, salt-treated, biological replicate 2",Abio,Salt,Treatment
+376,21,GSE14403,GSM359907,"FL478 root, salt-treated, biological replicate 3",Abio,Salt,Treatment
+377,21,GSE14403,GSM359908,"IR29 root, control, biological replicate 1",Abio,Salt,Control
+378,21,GSE14403,GSM359909,"IR29 root, control, biological replicate 2",Abio,Salt,Control
+379,21,GSE14403,GSM359910,"IR29 root, salt-treated, biological replicate 1",Abio,Salt,Treatment
+380,21,GSE14403,GSM359911,"IR29 root, salt-treated, biological replicate 2",Abio,Salt,Treatment
+381,21,GSE14403,GSM359912,"IR29 root, salt-treated, biological replicate 3",Abio,Salt,Treatment
+382,21,GSE14403,GSM359913,"IR63731 root, control, biological replicate 1",Abio,Salt,Control
+383,21,GSE14403,GSM359914,"IR63731 root, control, biological replicate 2",Abio,Salt,Control
+384,21,GSE14403,GSM359915,"IR63731 root, control, biological replicate 3",Abio,Salt,Control
+385,21,GSE14403,GSM359916,"IR63731 root, salt-treated, biological replicate 1",Abio,Salt,Treatment
+386,21,GSE14403,GSM359917,"IR63731 root, salt-treated, biological replicate 2",Abio,Salt,Treatment
+387,21,GSE14403,GSM359918,"IR63731 root, salt-treated, biological replicate 3",Abio,Salt,Treatment
+388,21,GSE14403,GSM359919,"Pokkali root, control, biological replicate 1",Abio,Salt,Control
+389,21,GSE14403,GSM359920,"Pokkali root, control, biological replicate 2",Abio,Salt,Control
+390,21,GSE14403,GSM359921,"Pokkali root, control, biological replicate 3",Abio,Salt,Control
+391,21,GSE14403,GSM359922,"Pokkali root, salt-treated, biological replicate 1",Abio,Salt,Treatment
+392,21,GSE14403,GSM359923,"Pokkali root, salt-treated, biological replicate 2",Abio,Salt,Treatment
+393,21,GSE14403,GSM359924,"Pokkali root, salt-treated, biological replicate 3",Abio,Salt,Treatment
+394,22,GSE16108,GSM402997,MI48 control replicate 1,Abio,Salt,Control
+395,22,GSE16108,GSM402998,MI48 control replicate 2,Abio,Salt,Control
+396,22,GSE16108,GSM402999,MI48 stressed replicate 1,Abio,Salt,Treatment
+397,22,GSE16108,GSM403000,MI48 stressed replicate 2,Abio,Salt,Treatment
+398,22,GSE16108,GSM403001,CSR27 control replicate 1,Abio,Salt,Control
+399,22,GSE16108,GSM403002,CSR27 control replicate 2,Abio,Salt,Control
+400,22,GSE16108,GSM403003,CSR27 stressed replicate 1,Abio,Salt,Treatment
+401,22,GSE16108,GSM403004,CSR27 stressed replicate 2,Abio,Salt,Treatment
+402,22,GSE16108,GSM403005,Bulk tolerant control replicate 1,Abio,Salt,Control
+403,22,GSE16108,GSM403006,Bulk tolerant control replicate 2,Abio,Salt,Control
+404,22,GSE16108,GSM403007,Bulk tolerant stressed replicate 1,Abio,Salt,Treatment
+405,22,GSE16108,GSM403008,Bulk tolerant stressed replicate 2,Abio,Salt,Treatment
+406,22,GSE16108,GSM403009,Bulk sensitive control replicate 1,Abio,Salt,Control
+407,22,GSE16108,GSM403010,Bulk sensitive control replicate 2,Abio,Salt,Control
+408,22,GSE16108,GSM403011,Bulk sensitive stressed replicate 1,Abio,Salt,Treatment
+409,22,GSE16108,GSM403012,Bulk sensitive stressed replicate 2,Abio,Salt,Treatment
+410,23,GSE17245,GSM431925,Root- +Fe+P biological rep1,Abio,Metal,Control
+411,23,GSE17245,GSM431926,Root- +Fe+P biological rep2,Abio,Metal,Control
+412,23,GSE17245,GSM431927,Root- -Fe+P biological rep1,Abio,Metal,Treatment
+413,23,GSE17245,GSM431928,Root- -Fe+P biological rep2,Abio,Metal,Treatment
+414,23,GSE17245,GSM431929,Root- +Fe-P biological rep1,Abio,Metal,Treatment
+415,23,GSE17245,GSM431930,Root- +Fe-P biological rep2,Abio,Metal,Treatment
+416,23,GSE17245,GSM431931,Root- -Fe-P biological rep1,Abio,Metal,Treatment
+417,23,GSE17245,GSM431932,Root- -Fe-P biological rep2,Abio,Metal,Treatment
+418,23,GSE17245,GSM431933,Shoot- +Fe+P biological rep1,Abio,Metal,Control
+419,23,GSE17245,GSM431934,Shoot- +Fe+P biological rep2,Abio,Metal,Control
+420,23,GSE17245,GSM431935,Shoot- -Fe+P biological rep1,Abio,Metal,Treatment
+421,23,GSE17245,GSM431936,Shoot- -Fe+P biological rep2,Abio,Metal,Treatment
+422,23,GSE17245,GSM431937,Shoot- +Fe-P biological rep1,Abio,Metal,Treatment
+423,23,GSE17245,GSM431938,Shoot- +Fe-P biological rep2,Abio,Metal,Treatment
+424,23,GSE17245,GSM431939,Shoot- -Fe-P biological rep1,Abio,Metal,Treatment
+425,23,GSE17245,GSM431940,Shoot- -Fe-P biological rep2,Abio,Metal,Treatment
+426,24,GSE18930,GSM468793,"M202 at day 0, biological rep1",Abio,Submergence,Control
+427,24,GSE18930,GSM468794,"M202 at day 0, biological rep2",Abio,Submergence,Control
+428,24,GSE18930,GSM468795,"M202 at day 1, biological rep1",Abio,Submergence,Treatment
+429,24,GSE18930,GSM468796,"M202 at day 1, biological rep2",Abio,Submergence,Treatment
+430,24,GSE18930,GSM468797,"M202(Sub1) at day 0, biological rep1",Abio,Submergence,Control
+431,24,GSE18930,GSM468798,"M202(Sub1) at day 0, biological rep2",Abio,Submergence,Control
+432,24,GSE18930,GSM468799,"M202(Sub1) at day 1, biological rep1",Abio,Submergence,Treatment
+433,24,GSE18930,GSM468800,"M202(Sub1) at day 1, biological rep2",Abio,Submergence,Treatment
+434,25,GSE21651,GSM540080,Sens-drought-control-A,Abio,Drought,Control
+435,25,GSE21651,GSM540081,Sens-drought-control-B,Abio,Drought,Control
+436,25,GSE21651,GSM540082,Sens-drought str-A,Abio,Drought,Treatment
+437,25,GSE21651,GSM540083,Sens-drought str-B,Abio,Drought,Treatment
+438,25,GSE21651,GSM540084,Tolerant-drought-control-A,Abio,Drought,Control
+439,25,GSE21651,GSM540085,Tolerant-drought-control-B,Abio,Drought,Control
+440,25,GSE21651,GSM540086,Tolerant-drought str-A,Abio,Drought,Treatment
+441,25,GSE21651,GSM540087,Tolerant-drought str-B,Abio,Drought,Treatment
+442,25,GSE21651,GSM540088,Salt-sensitive-control-A,Abio,Salt,Control
+443,25,GSE21651,GSM540089,Salt-sensitive-control-B,Abio,Salt,Control
+444,25,GSE21651,GSM540090,Salt-sensitive-stressed-A,Abio,Salt,Treatment
+445,25,GSE21651,GSM540091,Salt-sensitive-stressed-B,Abio,Salt,Treatment
+446,25,GSE21651,GSM540092,Salt-tolerant-control-A,Abio,Salt,Control
+447,25,GSE21651,GSM540093,Salt-tolerant-control-B,Abio,Salt,Control
+448,25,GSE21651,GSM540094,Salt-tolerant-stressed-A,Abio,Salt,Treatment
+449,25,GSE21651,GSM540095,Salt-tolerant -stressed-B,Abio,Salt,Treatment
+450,26,GSE23211,GSM570988,Rice_wt-well-watered-1,Abio,Drought,Control
+451,26,GSE23211,GSM570989,Rice_wt-well-watered-2,Abio,Drought,Control
+452,26,GSE23211,GSM570990,Rice_wt-well-watered-3,Abio,Drought,Control
+453,26,GSE23211,GSM570994,Rice_wt-water-stress-7,Abio,Drought,Treatment
+454,26,GSE23211,GSM570995,Rice_wt-water-stress-8,Abio,Drought,Treatment
+455,26,GSE23211,GSM570996,Rice_wt-water-stress-9,Abio,Drought,Treatment
+456,27,GSE24048,GSM591761,Control Azucena leaf biologial rep 1,Abio,Drought,Control
+457,27,GSE24048,GSM591762,Control Azucena leaf biologial rep 2,Abio,Drought,Control
+458,27,GSE24048,GSM591763,Control Azucena leaf biologial rep 3,Abio,Drought,Control
+459,27,GSE24048,GSM591764,Control Bala leaf biologial rep 1,Abio,Drought,Control
+460,27,GSE24048,GSM591765,Control Bala leaf biologial rep 2,Abio,Drought,Control
+461,27,GSE24048,GSM591766,Control Bala leaf biologial rep 3,Abio,Drought,Control
+462,27,GSE24048,GSM591767,Droughted Azucena leaf biologial rep 1,Abio,Drought,Treatment
+463,27,GSE24048,GSM591768,Droughted Azucena leaf biologial rep 2,Abio,Drought,Treatment
+464,27,GSE24048,GSM591769,Droughted Azucena leaf biologial rep 3,Abio,Drought,Treatment
+465,27,GSE24048,GSM591770,Droughted Bala leaf biologial rep 1,Abio,Drought,Treatment
+466,27,GSE24048,GSM591771,Droughted Bala leaf biologial rep 2,Abio,Drought,Treatment
+467,27,GSE24048,GSM591772,Droughted Bala leaf biologial rep 3,Abio,Drought,Treatment
+468,28,GSE25176,GSM618363,"Rice IRAT109 at D0, biological rep1",Abio,Drought,Control
+469,28,GSE25176,GSM618364,"Rice IRAT109 at D0, biological rep2",Abio,Drought,Control
+470,28,GSE25176,GSM618365,"Rice IRAT109 at D1, biological rep1",Abio,Drought,Treatment
+471,28,GSE25176,GSM618366,"Rice IRAT109 at D1, biological rep2",Abio,Drought,Treatment
+472,28,GSE25176,GSM618367,"Rice IRAT109 at D2, biological rep1",Abio,Drought,Treatment
+473,28,GSE25176,GSM618368,"Rice IRAT109 at D2, biological rep2",Abio,Drought,Treatment
+474,28,GSE25176,GSM618369,"Rice IRAT109 at D3, biological rep1",Abio,Drought,Treatment
+475,28,GSE25176,GSM618370,"Rice IRAT109 at D3, biological rep2",Abio,Drought,Treatment
+476,28,GSE25176,GSM618371,"Rice ZS97 at D0, biological rep1",Abio,Drought,Control
+477,28,GSE25176,GSM618372,"Rice ZS97 at D0, biological rep2",Abio,Drought,Control
+478,28,GSE25176,GSM618373,"Rice ZS97 at D1, biological rep1",Abio,Drought,Treatment
+479,28,GSE25176,GSM618374,"Rice ZS97 at D1, biological rep2",Abio,Drought,Treatment
+480,28,GSE25176,GSM618375,"Rice ZS97 at D2, biological rep1",Abio,Drought,Treatment
+481,28,GSE25176,GSM618376,"Rice ZS97 at D2, biological rep2",Abio,Drought,Treatment
+482,28,GSE25176,GSM618377,"Rice ZS97 at D3, biological rep1",Abio,Drought,Treatment
+483,28,GSE25176,GSM618378,"Rice ZS97 at D3, biological rep2",Abio,Drought,Treatment
+484,29,GSE25206,GSM619236,"Control rice root, biological rep1",Abio,Metal,Control
+485,29,GSE25206,GSM619237,"Control rice root, biological rep2",Abio,Metal,Control
+486,29,GSE25206,GSM619238,"Control rice root, biological rep3",Abio,Metal,Control
+487,29,GSE25206,GSM619239,"Rice root treated with 100 µM of Cr (VI), biological rep1",Abio,Metal,Treatment
+488,29,GSE25206,GSM619240,"Rice root treated with 100 µM of Cr (VI), biological rep2",Abio,Metal,Treatment
+489,29,GSE25206,GSM619241,"Rice root treated with 100 µM of Cr (VI), biological rep3",Abio,Metal,Treatment
+490,29,GSE25206,GSM619242,"Rice root treated with 100 µM of Cd, biological rep1",Abio,Metal,Treatment
+491,29,GSE25206,GSM619244,"Rice root treated with 100 µM of Cd, biological rep3",Abio,Metal,Treatment
+492,29,GSE25206,GSM619245,"Rice root treated with 100 µM of AsV, biological rep1",Abio,Metal,Treatment
+493,29,GSE25206,GSM619246,"Rice root treated with 100 µM of AsV, biological rep2",Abio,Metal,Treatment
+494,29,GSE25206,GSM619247,"Rice root treated with 100 µM of AsV, biological rep3",Abio,Metal,Treatment
+495,29,GSE25206,GSM619248,"Rice root treated with 100 µM of Pb, biological rep1",Abio,Metal,Treatment
+496,29,GSE25206,GSM619249,"Rice root treated with 100 µM of Pb, biological rep2",Abio,Metal,Treatment
+497,29,GSE25206,GSM619250,"Rice root treated with 100 µM of Pb, biological rep3",Abio,Metal,Treatment
+498,30,GSE26280,GSM645322,"normal leaves at tillering stage, biological rep1",Abio,Drought,Control
+499,30,GSE26280,GSM645323,"normal leaves at tillering stage, biological rep2",Abio,Drought,Control
+500,30,GSE26280,GSM645324,"normal leaves at tillering stage, biological rep3",Abio,Drought,Control
+501,30,GSE26280,GSM645325,"Drought treated leaves at tillering stage, biological rep1",Abio,Drought,Treatment
+502,30,GSE26280,GSM645326,"Drought treated leaves at tillering stage, biological rep2",Abio,Drought,Treatment
+503,30,GSE26280,GSM645327,"Drought treated leaves at tillering stage, biological rep3",Abio,Drought,Treatment
+504,30,GSE26280,GSM645328,"normal roots at tillering stage, biological rep1",Abio,Drought,Control
+505,30,GSE26280,GSM645329,"normal roots at tillering stage, biological rep2",Abio,Drought,Control
+506,30,GSE26280,GSM645330,"normal roots at tillering stage, biological rep3",Abio,Drought,Control
+507,30,GSE26280,GSM645331,"Drought treated roots at tillering stage, biological rep1",Abio,Drought,Treatment
+508,30,GSE26280,GSM645332,"Drought treated roots at tillering stage, biological rep2",Abio,Drought,Treatment
+509,30,GSE26280,GSM645333,"Drought treated roots at tillering stage, biological rep3",Abio,Drought,Treatment
+510,30,GSE26280,GSM645334,"normal leaves at panicle elongation stage, biological rep1",Abio,Drought,Control
+511,30,GSE26280,GSM645335,"normal leaves at panicle elongation stage, biological rep2",Abio,Drought,Control
+512,30,GSE26280,GSM645336,"normal leaves at panicle elongation stage, biological rep3",Abio,Drought,Control
+513,30,GSE26280,GSM645337,"Drought treated leaves at panicle elongation stage, biological rep1",Abio,Drought,Treatment
+514,30,GSE26280,GSM645338,"Drought treated leaves at panicle elongation stage, biological rep2",Abio,Drought,Treatment
+515,30,GSE26280,GSM645339,"Drought treated leaves at panicle elongation stage, biological rep3",Abio,Drought,Treatment
+516,30,GSE26280,GSM645340,"normal roots at panicle elongation stage, biological rep1",Abio,Drought,Control
+517,30,GSE26280,GSM645341,"normal roots at panicle elongation stage, biological rep2",Abio,Drought,Control
+518,30,GSE26280,GSM645342,"normal roots at panicle elongation stage, biological rep3",Abio,Drought,Control
+519,30,GSE26280,GSM645343,"Drought treated roots at panicle elongation stage, biological rep1",Abio,Drought,Treatment
+520,30,GSE26280,GSM645344,"Drought treated roots at panicle elongation stage, biological rep2",Abio,Drought,Treatment
+521,30,GSE26280,GSM645345,"Drought treated roots at panicle elongation stage, biological rep3",Abio,Drought,Treatment
+522,30,GSE26280,GSM645346,"normal leaves at booting stage, biological rep1",Abio,Drought,Control
+523,30,GSE26280,GSM645347,"normal leaves at booting stage, biological rep2",Abio,Drought,Control
+524,30,GSE26280,GSM645348,"normal leaves at booting stage, biological rep3",Abio,Drought,Control
+525,30,GSE26280,GSM645349,"Drought treated leaves at booting stage, biological rep1",Abio,Drought,Treatment
+526,30,GSE26280,GSM645350,"Drought treated leaves at booting stage, biological rep2",Abio,Drought,Treatment
+527,30,GSE26280,GSM645351,"Drought treated leaves at booting stage, biological rep3",Abio,Drought,Treatment
+528,30,GSE26280,GSM645352,"normal young panicle at booting stage, biological rep1",Abio,Drought,Control
+529,30,GSE26280,GSM645353,"normal young panicle at booting stage, biological rep2",Abio,Drought,Control
+530,30,GSE26280,GSM645354,"normal young panicle at booting stage, biological rep3",Abio,Drought,Control
+531,30,GSE26280,GSM645355,"Drought treated young panicle at booting stage, biological rep1",Abio,Drought,Treatment
+532,30,GSE26280,GSM645356,"Drought treated young panicle at booting stage, biological rep2",Abio,Drought,Treatment
+533,30,GSE26280,GSM645357,"Drought treated young panicle at booting stage, biological rep3",Abio,Drought,Treatment
+534,31,GSE31077,GSM769646,"Hanfeng_4D_2DC, biological rep1",Abio,Cold,Treatment
+535,31,GSE31077,GSM769647,"Hanfeng_4D_2DC, biological rep2",Abio,Cold,Treatment
+536,31,GSE31077,GSM769648,"Hanfeng_4D, biological rep1",Abio,Cold,Control
+537,31,GSE31077,GSM769649,"Hanfeng_4D, biological rep2",Abio,Cold,Control
+538,31,GSE31077,GSM769650,"Zhonghua_10D_2DC, biological rep1",Abio,Cold,Treatment
+539,31,GSE31077,GSM769651,"Zhonghua_10D_2DC, biological rep2",Abio,Cold,Treatment
+540,31,GSE31077,GSM769652,"Zhonghua_10D, biological rep1",Abio,Cold,Control
+541,31,GSE31077,GSM769653,"Zhonghua_10D, biological rep2",Abio,Cold,Control
+542,31,GSE31077,GSM769654,"Zhonghua_12D, biological rep1",Abio,Cold,Control
+543,31,GSE31077,GSM769655,"Zhonghua_12D, biological rep2",Abio,Cold,Control
+544,31,GSE31077,GSM769656,"Zhonghua_4D_2DC, biological rep1",Abio,Cold,Treatment
+545,31,GSE31077,GSM769657,"Zhonghua_4D_2DC, biological rep2",Abio,Cold,Treatment
+546,31,GSE31077,GSM769658,"Zhonghua_4D, biological rep1",Abio,Cold,Control
+547,31,GSE31077,GSM769659,"Zhonghua_4D, biological rep2",Abio,Cold,Control
+548,31,GSE31077,GSM769660,"Zhonghua_6D, biological rep1",Abio,Cold,Control
+549,31,GSE31077,GSM769661,"Zhonghua_6D, biological rep2",Abio,Cold,Control
+550,32,GSE35984,GSM878668,"rice seedling grown under Pi-sufficient condition, biological rep1",Abio,Nutrient,Control
+551,32,GSE35984,GSM878669,"rice seedling grown under Pi-sufficient condition, biological rep2",Abio,Nutrient,Control
+552,32,GSE35984,GSM878670,"rice seedling exposed to Pi-deficient solution for 6 hours, biological rep1",Abio,Nutrient,Treatment
+553,32,GSE35984,GSM878671,"rice seedling exposed to Pi-deficient solution for 6 hours, biological rep2",Abio,Nutrient,Treatment
+554,32,GSE35984,GSM878672,"rice seedling exposed to Pi-deficient solution for 24 hours, biological rep1",Abio,Nutrient,Treatment
+555,32,GSE35984,GSM878673,"rice seedling exposed to Pi-deficient solution for 24 hours, biological rep2",Abio,Nutrient,Treatment
+556,32,GSE35984,GSM878674,"rice seedling exposed to Pi-deficient solution for 48 hours, biological rep1",Abio,Nutrient,Treatment
+557,32,GSE35984,GSM878675,"rice seedling exposed to Pi-deficient solution for 48 hours, biological rep2",Abio,Nutrient,Treatment
+558,32,GSE35984,GSM878676,"rice seedling exposed to Pi-deficient solution for 72 hours, biological rep1",Abio,Nutrient,Treatment
+559,32,GSE35984,GSM878677,"rice seedling exposed to Pi-deficient solution for 72 hours, biological rep2",Abio,Nutrient,Treatment
